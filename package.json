@@ -1,0 +1,14 @@
+{
+  "name": "botbuilder-storage-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/botbuilder-storage-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^4.5.3"
+  }
+}
